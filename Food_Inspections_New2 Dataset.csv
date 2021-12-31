@@ -1,4 +1,4 @@
-Inspection ID,DBA Name,AKA Name,License #,Facility Type,Risk,Address,City,State,Zip,Inspection Date,Inspection Type,Results
+Inspection_ID,DBA_Name,AKA_Name,License,Facility_Type,Risk,Address,City,State,Zip,Inspection_Date,Inspection_Type,Results
 2545939,MCDONALDS,MCDONALDS,2349545,Restaurant,Risk 2 (Medium),3241 W PETERSON AVE ,CHICAGO,IL,60659,2021,Canvass Re-Inspection,Pass
 2545928,TACONAZO EL ORIGINAL #1,TACONAZO EL ORIGINAL #1,2657927,Restaurant,Risk 1 (High),4124 W NORTH AVE ,CHICAGO,IL,60639,2021,Canvass Re-Inspection,Pass
 2545896,7-ELEVEN #24606,7-ELEVEN #24606,12892,Grocery Store,Risk 2 (Medium),2600 N LINCOLN AVE ,CHICAGO,IL,60614,2021,Canvass,Out of Business
